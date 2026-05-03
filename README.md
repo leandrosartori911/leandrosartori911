@@ -51,15 +51,6 @@ I build modern, secure web solutions with a strong focus on performance, user ex
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrosartori911&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosartori911&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-sartori-ai/)
