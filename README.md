@@ -1,10 +1,10 @@
 # Hi there, I'm Leandro 👋
 
-### AWS Cloud • Cloud Security • Cybersecurity • Artificial Intelligence
+### AWS Cloud • Machine Learning • Cybersecurity • Artificial Intelligence
 
-I am passionate about cloud technologies, cybersecurity, and artificial intelligence, building hands-on projects to deepen my understanding of secure and scalable systems.
+I am passionate about cloud technologies, Machine Learning, and artificial intelligence, building hands-on projects to deepen my understanding of secure and scalable systems.
 
-My current focus is on AWS Cloud, Cloud Security, AI Security, Infrastructure as Code, and the engineering principles behind modern AI applications. I enjoy exploring how cloud infrastructure, security, and intelligent systems come together to create reliable, scalable, and secure solutions.
+My current focus is on AWS Cloud, MLOps, AI Security, Infrastructure as Code, and the engineering principles behind modern AI applications. I enjoy exploring how cloud infrastructure, security, and intelligent systems come together to create reliable, scalable, and secure solutions.
 
 ---
 
@@ -12,8 +12,8 @@ My current focus is on AWS Cloud, Cloud Security, AI Security, Infrastructure as
 
 * Building and securing cloud environments using AWS services
 * Developing Infrastructure as Code projects with Terraform
-* Studying AWS security best practices and cloud security concepts
-* Expanding knowledge in Machine Learning, AI systems, and AI Security
+* Studying AWS MLOps best practices and Machine Learning concepts
+* Expanding knowledge in AI systems, and AI Security
 * Practicing cybersecurity through labs, vulnerability assessment, and defensive security concepts
 
 ---
@@ -56,7 +56,7 @@ My current focus is on AWS Cloud, Cloud Security, AI Security, Infrastructure as
 
 ```text
 AWS Cloud Computing
-Cloud Security
+MLOps
 Artificial Intelligence & Machine Learning
 AI Security
 Infrastructure as Code (Terraform)
@@ -72,7 +72,6 @@ Cybersecurity & Secure Systems
 * AI Engineering
 * Machine Learning Fundamentals
 * Secure AI Systems
-* Cloud Security Best Practices
 
 ---
 
