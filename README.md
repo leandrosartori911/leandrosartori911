@@ -6,13 +6,17 @@ AI Engineering student (Unimar, Brazil) building LLM and machine learning system
 
 | Project | What it is | Stack |
 |---|---|---|
+| [ai-language-teacher](https://github.com/leandrosartori911/ai-language-teacher) | Local AI teacher for Japanese: all kana, N5 kanji and vocabulary with spaced repetition, plus an Ollama tutor grounded on the lessons. [v0.1.0 released](https://github.com/leandrosartori911/ai-language-teacher/releases/tag/v0.1.0) | Python, FastAPI, SQLite, Ollama |
 | [rag-pipeline-serverless](https://github.com/leandrosartori911/rag-pipeline-serverless) | RAG pipeline with AWS serverless orchestration and local LLM inference. No inbound ports, evaluated with RAGAS | Python, Ollama, AWS (Lambda, SQS, DynamoDB), RAGAS |
 | [analise-sentimentos-imdb](https://github.com/leandrosartori911/analise-sentimentos-imdb) | Sentiment classifier for 49.5K IMDB reviews (0.89 F1) with a Streamlit app (team project) | scikit-learn, NLTK, Streamlit |
 | [aws-elk-siem-lab](https://github.com/leandrosartori911/aws-elk-siem-lab) | Log and metrics monitoring of an EC2 host running a vulnerable app, over a private VPN | Docker, ELK, Filebeat/Metricbeat, Tailscale |
 
+<a href="https://github.com/leandrosartori911/ai-language-teacher"><img src="https://raw.githubusercontent.com/leandrosartori911/ai-language-teacher/main/docs/demo.gif" alt="AI Language Teacher demo" width="720"></a>
+
 ## 🛠️ Tech & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
