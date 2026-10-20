@@ -11,7 +11,6 @@ AI Engineering student (Unimar, Brazil) building LLM and machine learning system
 | [analise-sentimentos-imdb](https://github.com/leandrosartori911/analise-sentimentos-imdb) | Sentiment classifier for 49.5K IMDB reviews (0.89 F1) with a Streamlit app (team project) | scikit-learn, NLTK, Streamlit |
 | [aws-elk-siem-lab](https://github.com/leandrosartori911/aws-elk-siem-lab) | Log and metrics monitoring of an EC2 host running a vulnerable app, over a private VPN | Docker, ELK, Filebeat/Metricbeat, Tailscale |
 
-<a href="https://github.com/leandrosartori911/ai-language-teacher"><img src="https://raw.githubusercontent.com/leandrosartori911/ai-language-teacher/main/docs/demo.gif" alt="AI Language Teacher demo" width="720"></a>
 
 ## 🛠️ Tech & tools
 
